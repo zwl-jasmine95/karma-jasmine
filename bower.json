@@ -1,0 +1,20 @@
+{
+  "name": "karma",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zwl <876143739@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
